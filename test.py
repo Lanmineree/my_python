@@ -1,2 +1,6 @@
-for i in range(100):
+for i in range(200):
+    print(i)
+    print(i)
+    print(i)
+    print(i)
     print(i)
